@@ -9,7 +9,7 @@ This project implements real-time human pose estimation using the MediaPipe libr
 - Prints the detected landmarks (keypoints) to the console.
 
 ## Requirements
-- Python 3.x
+- Python 3.9
 - OpenCV
 - MediaPipe
 - NumPy
